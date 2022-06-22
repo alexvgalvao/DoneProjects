@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+   <meta charset="utf-8">
+  	<title>Alex Galvao</title>
+	<link rel="stylesheet" href="style.css"  />
+  </head>
+  <body>
+			<header>
+			<h1 id="title">Alex Galvao</h1> <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHuqFbInfoLVg/profile-displayphoto-shrink_400_400/0/1654459123083?e=1660780800&v=beta&t=pfSitK7z59nRp_rSv6eLWp36SMx5Xyf167IX2VY42V0" class="photo" />  
+        <p></p>
+        <a href="mailto:alexgalvao@gmail.com"> Mande um e-mail</a> ou telefone <a href="tell:930328110">93032.8110</a>
+    </header>
+			
+			<section>
+				<header>
+					<h2 class="subtitle" > Formação Educacional </h2>		
+          <ul>
+					<li><p>
+      Bootcamp Santander Tech & DIO : Git e GitHub, HTML5 e CSS3.
+            </p>
+          </li>
+          <li>
+            <p>
+Curso de Power BI para Business intelligence - 2021
+Modelagem relacionamento, Gráficos e Mapas, DashBoards Interativos, Google Analytics, Banco de dados relacionais, estatística para data Science, SQL Analytics, Python e Power BI para manipulação de dados, e Power automate.
+					  </p>
+          </li>  
+          <li>
+            <p>
+            MBA em Gestão Empresarial, Fundação Getúlio Vargas (março/2022)
+Gestão Comercial; Negociação e Administração de Conflitos; Gestão Estratégica Empresarial; Inovação nas Organizações; Matemática Financeira; Economia Empresarial; Gestão Contábil Financeira; Finanças Corporativas; Gestão de Projetos; Gestão da Qualidade e Processos; Direito do Consumidor; Marketing Empresarial - Análise Estratégica e Definição de Posicionamento Mercadológico, entre outras.
+            </p>
+          </li>
+          <li>
+            <p>
+            Pós-Graduação de Especialização em Administração de Empresas, Fundação Getúlio Vargas, São Paulo – (2018/2019).
+Análise, Gestão de Pessoas, Estratégia, Gestão de Processos, Competência interpessoal (coaching grupal), Gestão Financeira, Negociação e Conflitos, Jogos de Negócios, Marketing Empresarial, Economia Empresarial, Direito Empresarial – Análise do Negócio e de Compatibilidade com o Ambiente para Empresas e Startups, entre outras.
+            </p>
+          </li>  
+          <li>
+            <p>
+            Bacharel em Administração, Univ. São Judas Tadeu – (2018/2021).
+Responsabilidade e Negócios; Globalização e Estratégia; Processos; Sociedade e Modernidade - Análise de cenário futuro; Análise de conjuntura; LAI - Identidade; Criatividade e Resolução de problemas; Contabilidade; Optativa em tech - Desenvolvimento de software e documentação (Requisito, modelagem, e UML).
+            </p>
+          </li>  
+          <li>
+            <p>
+            Bacharel em Ciências Aeronáuticas (Aviação civil), Univ. Anhembi Morumbi – (2015/2018).
+Responsabilidade e Negócios; Globalização e Estratégia; Processos; Sociedade e Modernidade - Análise de cenário futuro; LAI - Identidade; Criatividade e Resolução de problemas; Contabilidade, entre outras;
+            </p>
+          </li>
+          <li>
+            <p>
+            Ensino Técnico Instituto Federal de Ciência e Tecnologia de São Paulo (IFSP) - Manutenção e Suporte em Informática – 2013. Nota: TecnologiaNota: Tecnologia
+Suporte e manutenção de computadores
+Pacote Office
+ADM e empreendedorismo - desenvolvido plano de negócios para empreendedorismo.
+Lógica de programação. 
+Atividades em Windows server - criação de servidor Winserver8 e gerenciamento.
+Tcc - criação de servidor web em linux, hospedagem e gerenciamento de website com plataforma e templates em joomla.
+Java Netbens - desenvolvimento de projetos. 
+MySQL - estrutura e desenho e implementação de banco de dados
+PHP HTML Redes
+            </p>
+          </li>
+        </ul>
+				</header>
+				<article> <h3 class="subtitle"> Experiencias e Reconhecimentos </h3> 
+				  <ul>
+           <li>
+              <p> 
+Banco Bradesco SA
+ Ouvidoria e Relacionamento – 05/2019 – 12/2020
+* Responsável pela Proteção da imagem da Instituição
+* Comunicação Formal com Imprensa, órgãos reguladores e outros stakeholders.
+* Demanda Jurídica, Financeira, Varejo, Seguros, Parcerias, Segurança Corporativa;
+* Liderança informal da equipe para entrega do Projeto de Aceleração.
+* Apliquei dinâmicas com BrainStorming e Design Thinking.
+* Planejamento e execução da apresentação para a diretoria departamental.
+				      </p>
+           </li>
+           <li>
+              <p> 
+Vencedor do projeto de aceleração: O projeto visou o redesenho do fluxo de informações com foco em processos digitais, os quais dão suporte a comunicação assertiva entre departamento e rede de agências (varejo) a nível nacional. Entega do prototipo e apresentação para gerencia e diretoria departamental.
+				      </p>
+           </li>
+           <li>
+              <p> 
+Administração Logística Kabbala Center – 08/2018 a 04/2019
+* Responsável pelo Canal Digital e toda a logística do E-commerce, tanto de entrada como de saída.
+* Gerar NFE, Conferência de notas fiscais e lote de produtos.
+* Posição de liderança informal, responsável por direcionar as equipes de limpeza, cozinha e manutenção predial.
+* Recepção e vendas - atendimento ao Público AA - alta renda, executivos, diretores de grandes indústrias, e pessoas
+públicas, para tratamento interno e externo.
+* Responsável pelo suporte diário aos clientes, e demais Stakeholders da instituição como grandes livrarias;
+* LNT e Construção de treinamento.
+* Cenário multicultural, com Americanos, Israelitas, Judeus, Russos, entre outros.
+* Comunicação e trabalho conjunto com Marketing, Eventos, Financeiro e Secretariado.
+				      </p>
+           </li>
+           <li>
+             <p>
+               Projeto de Consultoria Voluntária: Consultoria para pequenas e médias empresas do Estado de São Paulo em tempos de Covid-19 – a entrega da consultoria apontou necessidade de melhor utilização de recursos imobilizados de forma a acompanhar as tendências tecnológicas.
+             </p>  
+           </li>
+        </ul>     
+				</article>
+			</section>
+			<section>
+				<header> <h4 class="posttitle"> Cursos Complementares </h4></header>
+				<p> 
+- Certificado Ingles avancado PBF
+- Certificação Financeira Profissional Anbima – CPA – 20
+- Excel Avançado
+- Power Point Avançado
+- postgreSQL
+- phpmyadmim
+- MySQL
+- Power BI
+- Analista de Gestão Estratégica e Globalização - USJT
+- Marketing B2B – USP
+- Marketing digital – USP
+- Facebook Ads
+- GoogleAds
+- Certificate in Advanced English – PBF
+- Startup Lab workshop: How Google sets goals OKRs
+- Tendência na Gestão de Projetos - FGV
+- Criação de Startups: Desenvolvendo negócios inovadores – USP
+- UX / UI - Fundamentos e práticas para Design: User experience e User Interfaces – USP
+- Liderança e Gestão de Equipes – FGV
+
+
+				</p>
+			</section>	
+		</section>
+	<footer class="rodape" > 
+	  <ul>
+		  
+		  <a href="https://www.linkedin.com/in/alexvgalvao/" target="_blank">linkedin </a> 
+		  	
+
+	<img classe="post" src="QRcode.jpeg" alt="QRCode para o LinkedIn"  />
+	</ul>
+	</footer>	
+	</body>
+</html>
+
+
